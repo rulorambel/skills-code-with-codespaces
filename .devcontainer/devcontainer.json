@@ -15,7 +15,8 @@
      },
      "codespaces": {
          "openFiles": [
-             "codespace.md"
+             "codespace.md",
+           "index.html"
          ]
      }
  }
